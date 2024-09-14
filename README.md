@@ -23,6 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 Currently Working On
-- Kubernetes simulation using discrete event simulation
-- Ansible automation for scaling operations in cloud environments
+
