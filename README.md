@@ -10,8 +10,6 @@ I'm a Integration Engineer intern at Ericsson and a Software Engineering Student
 - Kubernetes simulation using discrete event simulation
 - Ansible automation for scaling operations in cloud environments
 
-## 📊 GitHub Stats
-![Nafisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-nafiseh&show_icons=true&theme=radical)
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=v-nafiseh&theme=radical)
