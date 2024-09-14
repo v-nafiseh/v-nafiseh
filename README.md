@@ -1,5 +1,5 @@
 ## Hi I'm Nafiseh 👋
-I'm a Integration Engineer intern at Ericsson and a Software Engineering Student at McMaster University.
+I'm a Integration Engineer intern at Ericsson and a Software Engineering student at McMaster University.
 
 ### 🔧 Technologies & Tools
 - Programming Languages: Python, Go, Java, C/C++, Django, Shell Scripting
