@@ -11,8 +11,6 @@ I'm a Integration Engineer intern at Ericsson and a Software Engineering student
 - Ansible automation for scaling operations in cloud environments
 
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=v-nafiseh&theme=radical)
 
 ## 🚀 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v-nafiseh&layout=compact&theme=radical)
